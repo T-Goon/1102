@@ -1,5 +1,8 @@
 # Assignment 1
 
+Program with the answers to the following 10 problems.
+
+## Questions
 Question 1.  Write a function tricolor that consumes a string and a font size.  It should return that string as an image in the specified font size.  In addition, the first 1/3 of the characters in the string should be red, the middle 1/3 should be green, and the last 1/3 should be blue.  You may assume the length of the string is a multiple of 3.  Hint:  there is a function called text that is helpful. 
 
 Question 2.  Write a function quadratic that accepts three inputs a, b, and c corresponding to the coefficients in the expression ax2 + bx + c = 0.  It returns the values of x that solve that algebraic expression (i.e., use the quadratic formula to solve for x).  Since the quadratic formula has a “+/-“ term, it returns two possible solutions.  To be able to return both values, you should define a structure called roots.  One field within roots corresponds to the “+“ term and the other field corresponds to the “-“ term in the quadratic formula.  If you are confused, you can work through the provided example in the starter file to better understand what is going on.  
