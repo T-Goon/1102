@@ -1,3 +1,3 @@
-# 1102
+# 1102 Accelerated Introduction to Program Design
 
-Assignments for class CS 1102.
+Assignments for WPI class CS 1102 Accelerated Introduction to Program Design.
